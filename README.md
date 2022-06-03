@@ -1,24 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="300"/>
-</div>
-
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
   I'm Lily!
 </h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white&logoWidth=30" alt="Medium Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Lily's website-orange?style=plastic&logoColor=white" alt="Lily's website Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Liyli1122&style=flat-plastic&color=orange" alt="views Badge"/>
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
