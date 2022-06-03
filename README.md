@@ -3,4 +3,5 @@
   <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" style="width:100"/>
 </div>
 
+---
 ### :woman_technologist: About Me :
