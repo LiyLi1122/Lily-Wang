@@ -35,5 +35,5 @@
 ---
  
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liyli1122&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liyli1122&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
