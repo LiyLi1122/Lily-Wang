@@ -5,13 +5,13 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white&logoWidth=30" alt="Medium Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Lily's website-orange?style=plastic&logoColor=white" alt="Lily's website Badge"/>
   </a>
 </div>
