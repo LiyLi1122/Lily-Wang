@@ -8,7 +8,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://medium.com/@teppei.252033">
     <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white&logoWidth=30" alt="Medium Badge"/>
   </a>
   <a href="#">
@@ -33,6 +33,8 @@
 </div>
 
 ---
+### Article
+<a href="https://medium.com/@teppei.252033">【 medium 】 Javascript - this</a>
  
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liyli1122&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
