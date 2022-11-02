@@ -11,11 +11,6 @@
   <a href="https://medium.com/@teppei.252033">
     <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white&logoWidth=30" alt="Medium Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Lily's website-orange?style=plastic&logoColor=white" alt="Lily's website Badge"/>
-  </a>
-</div>
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Liyli1122&style=flat-plastic&color=orange" alt="views Badge"/>
 </div>
 
