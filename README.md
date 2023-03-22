@@ -31,5 +31,6 @@
 ### Article
 <a href="https://medium.com/@teppei.252033/%E7%AD%86%E8%A8%98-javascript-this-46a9550ec40c" target="_blank">【 medium 】 Javascript - this</a>   
 <a href="https://medium.com/@teppei.252033/%E7%94%A8-node-js-mongodb-%E5%9C%A8-serverless-framework-%E5%BB%BA%E6%A7%8B%E4%B8%80%E5%80%8B-line-bot-%E4%B8%8A-c3da49072791" target="_blank">【 medium 】 用 Node.js + MongoDB 在 Serverless 建構一個 Line Bot (上)(下)</a>    
-<a href="https://medium.com/@teppei.252033/%E6%8E%A8%E7%89%B9%E5%B0%88%E6%A1%88%E7%B4%80%E9%8C%84-4adf79ba60db" target="_blank">【 medium 】 Alphitter Simple Twitter</a>     
+<a href="https://medium.com/@teppei.252033/%E6%8E%A8%E7%89%B9%E5%B0%88%E6%A1%88%E7%B4%80%E9%8C%84-4adf79ba60db" target="_blank">【 medium 】 Alphitter Simple Twitter 專案紀錄</a>  
+<a href="https://medium.com/@teppei.252033/%E7%94%A8-fly-io-%E9%83%A8%E7%BD%B2%E9%A4%90%E5%BB%B3%E8%AB%96%E5%A3%87-33c6562d6e09" target="_blank">【 medium 】 用 fly.io 手把手部署專案</a>    
  
