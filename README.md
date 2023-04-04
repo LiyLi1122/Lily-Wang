@@ -5,7 +5,7 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/lily-wang-46b30b227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@teppei.252033">
